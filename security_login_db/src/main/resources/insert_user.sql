@@ -1,0 +1,6 @@
+INSERT INTO users(username,password,enabled)
+VALUES ('bill','abc123', true)
+INSERT INTO users(username,password,enabled)
+VALUES ('admin','root123', true)
+INSERT INTO users(username,password,enabled)
+VALUES ('dba','root123', true)
